@@ -1,0 +1,16 @@
+# hostname -I will tell you the IP address that should go here
+
+[myvirtualhost-ubuntu]
+192.168.2.146
+
+[web]
+
+[portal]
+
+[app]
+
+[search]
+
+[service]
+
+[database]
